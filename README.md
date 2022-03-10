@@ -1,4 +1,19 @@
-### Olá. Meu nome é Evandro Dominbgues
+### Olá. Meu nome é Evandro Domingues
+
+- ✔  Tecnico em contabilidade - Desenvolvedor desde 18 anos... rsrsrs - Há mais de 30 anos buscando aprimorar habilidades e acompanhando a evolução das tecnologias e plataformas
+- 🔭 Atualmente estudando e criando projetos Full-stack 
+- ✍ Estudando e adquirindo conhecimentos em Java, Dart/Flutter
+- 🎮 Adoro games!
+
+<div align="center">
+  <a href="https://github.com/evandrodomingues">
+  <img height="180em" width="48%"  src="https://github-readme-stats.vercel.app/api?username=evandrodomingues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandrodomingues&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+  
+  ### Algumas de minhas experiências em tecnologias com que trabalho/trabalhei :
+
 
 ## ⭐️  Tecnologias e habilidades  ⭐️
 <a href="https://dart.dev/"><img height= "35" src= "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
@@ -13,11 +28,6 @@
 <a href="https://code.visualstudio.com/"><img height= "35" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 <a href="https://www.java.com/"><img height= "35" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
 <a href="https://firebase.google.com/"><img height= "35" src= "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
-
-#
-
-## 📊  Minhas Estatísticas  📊
-[![Evandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=evandrodomingues&show_icons=true&theme=dark)](https://github.com/evandrodomingues/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evandrodomingues&layout=compact&theme=dark)](https://github.com/evandrodomingues/github-readme-stats)
 
 #
 
